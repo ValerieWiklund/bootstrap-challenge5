@@ -7,8 +7,24 @@
   /*(background-position: 50%;*/
   background-size: 100%;
   min-height: 47vh;
+  font-family: 'Times New Roman', Times, serif; 
 }
 
 .white-break {
-  min-height: 2vh;
+  min-height: 1vh;
+}
+
+.we-are-box {
+  background-color: black;
+  min-height: 47vh;
+  font-family: 'Times New Roman', Times, serif; 
+}
+
+.we-are-box button {
+  font-family: sans-serif;
+}
+
+.cards {
+  background-color: #f2f2f2;
+  min-height: 55vh;
 }
