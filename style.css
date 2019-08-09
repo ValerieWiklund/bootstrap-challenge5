@@ -1,3 +1,14 @@
 .navigation {
   min-height: 15vh;
 }
+
+.header-image {
+  background-image: url(crownmaplegraphic.png);
+  /*(background-position: 50%;*/
+  background-size: 100%;
+  min-height: 47vh;
+}
+
+.white-break {
+  min-height: 2vh;
+}
